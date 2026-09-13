@@ -43,6 +43,16 @@ The dataset is divided into training and testing sets using an 80:20 ratio.
 
 The SHAP analysis helps identify which features have the greatest influence on the model's predictions, improving the transparency and interpretability of the loan approval process.
 
+
+## Dataset
+
+The complete training dataset is not included in this repository because of its large file size.
+
+A smaller `testData.csv` file is included in the repository for prediction testing.
+
+To run the complete training workflow, use the required loan application dataset and select it through the **Upload Loan Application Dataset** option.
+
+
 ## Project Workflow
 
 ```text
