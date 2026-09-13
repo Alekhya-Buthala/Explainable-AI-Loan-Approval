@@ -77,3 +77,17 @@ Loan Application Dataset
      SHAP Analysis
           ↓
   Explainable Prediction
+
+## Screenshots
+
+### Main Application Interface
+![Main GUI](main_gui.png)
+
+### Dataset Analysis
+![Dataset Analysis](dataset_analysis.png)
+
+### Prediction Result
+![Prediction Result](prediction_result.png)
+
+### SHAP Explanation
+![SHAP Explanation](shap_explanation.png)
