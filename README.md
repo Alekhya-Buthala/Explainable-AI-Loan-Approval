@@ -78,6 +78,7 @@ Loan Application Dataset
           ↓
   Explainable Prediction
 
+```
 ## Screenshots
 
 ### Main Application Interface
